@@ -4,8 +4,8 @@ title = "Contact"
 type = "contact"
 weight = -170
 [menu.main]
-name = "Présentation"
-weight = 1
+name = "Prendre RDV"
+weight = 3
 
 +++
 Des questions ? Vous désirez entrer en contact ? Remplissez le formulaire ci-desous et je vous recontacterai dans les plus brefs delais.

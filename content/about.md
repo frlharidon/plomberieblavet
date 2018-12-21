@@ -4,8 +4,8 @@ title = "About"
 type = "about"
 weight = -190
 [menu.main]
-name = "Nos prestations"
-weight = 2
+name = "Présentation"
+weight = 1
 
 +++
 La Plomberie du Blavet est la sociétée crée par François L'haridon, plombier de formation.

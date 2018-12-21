@@ -9,13 +9,13 @@ title = "Plomberie du Blavet"
 [author]
 name = "Thibaut Davoult"
 [[menu.main]]
-name = "Prendre RDV"
+name = "Réalisations"
 url = "/post/"
 weight = 4
 [[menu.main]]
-name = "Réalisations"
+name = "Nos prestations"
 url = "/"
-weight = 3
+weight = 2
 [params]
 Author = "Thibaut Davoult"
 DateForm = "Mon, Jan 2, 2006"
