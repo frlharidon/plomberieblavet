@@ -1,7 +1,7 @@
 +++
 date = "2015-05-24T18:51:50+02:00"
-title = "La société"
-type = "La société"
+title = "LA SOCIETE"
+type = "LA SOCIETE"
 weight = -190
 [menu.main]
 name = "Présentation"
