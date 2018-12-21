@@ -7,7 +7,6 @@ sections:
 - type: document
   path: layouts/index
   label: Homepage
-  match: "**/*"
 - type: directory
   path: content
   label: Pages
