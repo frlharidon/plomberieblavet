@@ -1,4 +1,4 @@
-baseurl = "http://frlharidon.github.io/"
+baseurl = "https://frlharidon.github.io/"
 title = "Plomberie du Blavet"
 canonifyurls = true
 paginate = 10
