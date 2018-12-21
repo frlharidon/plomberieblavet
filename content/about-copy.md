@@ -3,6 +3,8 @@ date = "2015-05-24T18:51:50+02:00"
 title = "SAV"
 type = "SAV"
 weight = -190
+[menu.main]
+weight = 5
 
 +++
 Un problème suite à une intervention?

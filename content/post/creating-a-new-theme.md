@@ -7,10 +7,6 @@ author:
 date: 2014-09-28 00:00:00 +0000
 categories:
 - tutorials
-menu:
-  main:
-    name: SAV
-    weight: 5
 
 ---
 # Introduction
