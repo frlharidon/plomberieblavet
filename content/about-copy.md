@@ -1,11 +1,16 @@
 +++
 date = "2015-05-24T18:51:50+02:00"
 draft = true
-title = "About-(copy)"
-type = "about"
+title = "SAV"
+type = "SAV"
 weight = -190
 
 +++
-La Plomberie du Blavet est la sociétée crée par François L'haridon, plombier de formation.
+Un problème suite à une intervention?
 
-Les spécialités de la Plomberie du Blavet sont : plomberie, chauffagerie.
+Il vous suffit de vous munir de vos numéros de facture et d’intervention puis de nous contacter par téléphone au 06 17 07 40 94.
+
+Nous ferons en sorte de traiter vos demandes le plus efficacement possible.
+
+Le SAV ne sera valable que sur présentation de facture, et sur problème directement lié à l’intervention.  
+ Aucun SAV ne sera fait sur des produits non fournis par Plomberie du Blavet.
