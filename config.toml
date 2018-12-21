@@ -14,7 +14,7 @@ url = "/post/"
 weight = 2
 [[menu.main]]
 name = "Réalisations"
-url = "/"
+url = "/post/"
 weight = 4
 [params]
 Author = "Thibaut Davoult"
