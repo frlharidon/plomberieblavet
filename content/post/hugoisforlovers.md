@@ -1,11 +1,10 @@
 ---
-title: "Getting Started with Hugo"
-description: "A quick read on how to get started with Hugo."
+title: Grosse réparation de chaudière
+description: Là j'ai réparé une grosse chaudière
 author:
-  name: "Anonymous"
+  name: Plomberie du Blavet
   desc: " "
-date: 2018-01-28T18:59:43+05:30
-draft: false
+date: 2018-01-28 13:29:43 +0000
 tags:
 - golang
 - go
@@ -14,8 +13,8 @@ tags:
 categories:
 - development
 - golang
----
 
+---
 # Step 1. Install Hugo
 
 Goto [hugo releases](https://github.com/spf13/hugo/releases) and download the
