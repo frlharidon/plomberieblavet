@@ -1,18 +1,19 @@
 ---
-title: Grosse réparation de chaudière
-description: Là j'ai réparé une grosse chaudière
+title: Création d'un espace douche avec retenue d'eau sur-mesure
+description: Espace douche pour les plus grands et bain pour les plus petits
 author:
   name: Plomberie du Blavet
   desc: " "
 date: 2018-01-28 13:29:43 +0000
 tags:
-- golang
-- go
-- hugo
-- development
+- Plomberie
+- Lanester
+- rénovation
+- Salle de bain
 categories:
-- development
-- golang
+- Rénovation
+- Salle de bain
+- douche
 
 ---
 ## Voici une grosse image:
