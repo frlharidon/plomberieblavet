@@ -10,6 +10,7 @@ tags:
 - Lanester
 - rénovation
 - Salle de bain
+- carrelage
 categories:
 - Rénovation
 - Salle de bain
@@ -20,6 +21,18 @@ categories:
 
 ![](/uploads/IMG_6350.PNG)
 
-La douche existante avait la double fonction douche et mini-baignoire pour les bains des enfants. Mais ce type de modèle ne se fait plus et il fallait garder les mêmes fonctionnalités. 
+La douche existante avait la double fonction douche et mini-baignoire pour les bains des enfants. Mais ce type de modèle ne se fait plus et il fallait garder les mêmes fonctionnalités.
 
-J'ai donc conçu un 
+J'ai donc conçu un espace entièrement carrelé sur le modèle des douches italiennes.
+
+## Dépose du receveur existant:
+
+![](/uploads/IMG_6221.JPG)
+
+J'ai conservé le même dimensionnement pour la pose du nouveau receveur, refait l'étanchéité selon les normes en vigueurs et recarrelé entièrement l'espace. Et pour une finition parfaite, j'ai redonné un coup de peinture étanche sur le papier peint. 
+
+Et voila une salle de douche toute neuve, pour les plus grands et les plus petits !
+
+![](/uploads/IMG_6349.JPG)
+
+La Plomberie du Blavet
