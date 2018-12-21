@@ -1,40 +1,33 @@
 baseurl = "https://frlharidon.github.io/"
-title = "Plomberie du Blavet"
 canonifyurls = true
+copyright = "Code released under the Apache 2.0 license."
+defaultContentLanguage = "fr"
+languageCode = "fr"
 paginate = 10
 theme = "startbootstrap-clean-blog"
-# themesDir = "../../"
-languageCode = "fr"
-defaultContentLanguage = "fr"
-copyright = "Code released under the Apache 2.0 license."
-
+title = "Plomberie du Blavet"
 [author]
-    name = "Thibaut Davoult"
-
+name = "Thibaut Davoult"
+[[menu.main]]
+name = "Prendre RDV"
+url = "/post/"
+weight = 4
+[[menu.main]]
+name = "Réalisations"
+url = "/"
+weight = 3
 [params]
-  DateForm = "Mon, Jan 2, 2006"
-  Description = "La plomberie du Blavet"
-  Author = "Thibaut Davoult"
-  email = "frlharidon@gmail.com"
-  Ganalytics = "XX-00000000-0"
-  # This will load all the CSS defined in the list
-  # customCSS = ["<absolute path to CSS>", "/static/css/test.css", "<or just load it off the internet>"]
-
+Author = "Thibaut Davoult"
+DateForm = "Mon, Jan 2, 2006"
+Description = "La plomberie du Blavet"
+Ganalytics = "XX-00000000-0"
+email = "frlharidon@gmail.com"
 [[params.social]]
-    title = "twitter"
-    url = "https://twitter.com/humboldtux"
+title = "twitter"
+url = "https://twitter.com/humboldtux"
 [[params.social]]
-    title = "github"
-    url = "https://github.com/humboldtux"
+title = "github"
+url = "https://github.com/humboldtux"
 [[params.social]]
-    title = "facebook"
-    url = "https://www.facebook.com/FACEBOOKHANDLE"
-
-[[menu.main]]
-  name = "home"
-  url = "/"
-  weight = -200
-[[menu.main]]
-  name = "Archives"
-  url = "/post/"
-  weight = -180
+title = "facebook"
+url = "https://www.facebook.com/FACEBOOKHANDLE"
