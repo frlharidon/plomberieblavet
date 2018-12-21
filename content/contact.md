@@ -4,7 +4,7 @@ title = "CONTACT"
 type = "CONTACT"
 weight = -170
 [menu.main]
-name = "Prendre RDV"
+name = "PRENDRE RDV"
 weight = 3
 
 +++

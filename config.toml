@@ -9,11 +9,7 @@ title = "Plomberie du Blavet"
 [author]
 name = "Thibaut Davoult"
 [[menu.main]]
-name = "Nos prestations"
-url = "/post/"
-weight = 2
-[[menu.main]]
-name = "Réalisations"
+name = "RÉALISATIONS"
 url = "/post/"
 weight = 4
 [params]

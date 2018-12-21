@@ -4,7 +4,7 @@ title = "LA SOCIETE"
 type = "LA SOCIETE"
 weight = -190
 [menu.main]
-name = "Présentation"
+name = "PRESENTATION"
 weight = 1
 
 +++
