@@ -12,4 +12,4 @@ Il vous suffit de vous munir de vos numéros de facture et d’intervention puis
 Nous ferons en sorte de traiter vos demandes le plus efficacement possible.
 
 Le SAV ne sera valable que sur présentation de facture, et sur problème directement lié à l’intervention.  
- Aucun SAV ne sera fait sur des produits non fournis par Plomberie du Blavet.
+Aucun SAV ne sera fait sur des produits non fournis par La Plomberie du Blavet.
