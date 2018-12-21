@@ -1,7 +1,7 @@
 +++
 date = "2015-05-24T18:52:04+02:00"
-title = "Contact"
-type = "contact"
+title = "CONTACT"
+type = "CONTACT"
 weight = -170
 [menu.main]
 name = "Prendre RDV"
