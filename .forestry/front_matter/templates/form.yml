@@ -1,0 +1,11 @@
+---
+label: Form
+hide_body: false
+is_partial: true
+display_field: form
+fields:
+- type: blocks
+  name: form
+  label: form
+  template_types:
+  - formulaire-de-contact
