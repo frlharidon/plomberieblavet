@@ -1,0 +1,23 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: titre
+  label: Titre
+  description: Titre principal de l'article
+  config:
+    required: true
+- type: file
+  name: image_principale
+  label: Image principale
+  description: Image principale qui se verra en haut de l'article
+- type: textarea
+  name: texte
+  label: Texte
+  description: Texte et contenu de l'article
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
