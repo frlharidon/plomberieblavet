@@ -29,7 +29,7 @@ J'ai donc conçu un espace entièrement carrelé sur le modèle des douches ital
 
 ![](/uploads/IMG_6221.JPG)
 
-J'ai conservé le même dimensionnement pour la pose du nouveau receveur, refait l'étanchéité selon les normes en vigueurs et recarrelé entièrement l'espace. Et pour une finition parfaite, j'ai redonné un coup de peinture étanche sur le papier peint. 
+J'ai conservé le même dimensionnement pour la pose du nouveau receveur, refait l'étanchéité selon les normes en vigueurs et recarrelé entièrement l'espace. Et pour une finition parfaite, j'ai redonné un coup de peinture étanche sur le papier peint.
 
 Et voila une salle de douche toute neuve, pour les plus grands et les plus petits !
 
