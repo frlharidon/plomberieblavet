@@ -1,0 +1,14 @@
+---
+label: Formulaire de contact
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: email
+  label: email
+- type: text
+  name: numero_de_telephone
+  label: numero de téléphone
+- type: textarea
+  name: description_du_probleme
+  label: description du problème
