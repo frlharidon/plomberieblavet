@@ -1,13 +1,11 @@
 baseurl = "https://frlharidon.github.io/"
-title = "Plomberie du Blavet"
 canonifyurls = true
+copyright = "Code released under the Apache 2.0 license."
+defaultContentLanguage = "fr"
+languageCode = "fr"
 paginate = 10
 theme = "startbootstrap-clean-blog"
-# themesDir = "../../"
-languageCode = "fr"
-defaultContentLanguage = "fr"
-copyright = "Code released under the Apache 2.0 license."
-
+title = "Plomberie du Blavet"
 [author]
     name = "Plomberie du Blavet"
 
@@ -21,20 +19,11 @@ copyright = "Code released under the Apache 2.0 license."
   # customCSS = ["<absolute path to CSS>", "/static/css/test.css", "<or just load it off the internet>"]
 
 [[params.social]]
-    title = "twitter"
-    url = "https://twitter.com/humboldtux"
+title = "twitter"
+url = "https://twitter.com/humboldtux"
 [[params.social]]
     title = "github"
     url = "https://github.com/thibautdavoult"
 [[params.social]]
-    title = "facebook"
-    url = "https://www.facebook.com/FACEBOOKHANDLE"
-
-[[menu.main]]
-  name = "home"
-  url = "/"
-  weight = -200
-[[menu.main]]
-  name = "Archives"
-  url = "/post/"
-  weight = -180
+title = "facebook"
+url = "https://www.facebook.com/FACEBOOKHANDLE"

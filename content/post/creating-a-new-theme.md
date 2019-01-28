@@ -1,15 +1,14 @@
 ---
-title: "Creating a New Theme"
-description: "A tutorial on how to create a Hugo theme."
+title: Creating a New Theme
+description: A tutorial on how to create a Hugo theme.
 author:
-  name: "Michael Henderson"
+  name: Michael Henderson
   desc: " "
-date: 2014-09-28
-draft: false
+date: 2014-09-28 00:00:00 +0000
 categories:
 - tutorials
----
 
+---
 # Introduction
 
 This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.

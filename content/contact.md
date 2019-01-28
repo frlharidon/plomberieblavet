@@ -1,10 +1,13 @@
 +++
 date = "2015-05-24T18:52:04+02:00"
-menu = "main"
-title = "Contact"
-type = "contact"
+title = "CONTACT"
+type = "CONTACT"
 weight = -170
+[menu.main]
+name = "PRENDRE RDV"
+weight = 3
 
 +++
+Des questions ? Vous désirez entrer en contact ? Vous désirez budgétiser votre projet de rénovation ? 
 
-Des questions ? Vous désirez entrer en contact ? Remplissez le formulaire ci-desous et je vous recontacterai dans les plus brefs delais.
+Remplissez le formulaire ci-dessous et je vous recontacterai dans les plus brefs délais.

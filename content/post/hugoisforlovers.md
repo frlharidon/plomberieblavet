@@ -1,94 +1,38 @@
 ---
-title: "Getting Started with Hugo"
-description: "A quick read on how to get started with Hugo."
+title: Création d'un espace douche avec retenue d'eau sur-mesure
+description: Espace douche pour les plus grands et bain pour les plus petits
 author:
-  name: "Anonymous"
+  name: Plomberie du Blavet
   desc: " "
-date: 2018-01-28T18:59:43+05:30
-draft: false
+date: 2018-01-28 13:29:43 +0000
 tags:
-- golang
-- go
-- hugo
-- development
+- Plomberie
+- Lanester
+- rénovation
+- Salle de bain
+- carrelage
 categories:
-- development
-- golang
+- Rénovation
+- Salle de bain
+- douche
+
 ---
+## Espace douche avant:
 
-# Step 1. Install Hugo
+![](/uploads/IMG_6350.PNG)
 
-Goto [hugo releases](https://github.com/spf13/hugo/releases) and download the
-appropriate version for your os and architecture.
+La douche existante avait la double fonction douche et mini-baignoire pour les bains des enfants. Mais ce type de modèle ne se fait plus et il fallait garder les mêmes fonctionnalités.
 
-Save it somewhere specific as we will be using it in the next step.
+J'ai donc conçu un espace entièrement carrelé sur le modèle des douches italiennes.
 
-More complete instructions are available at [installing hugo](/overview/installing/)
+## Dépose du receveur existant:
 
-# Step 2. Build the Docs
+![](/uploads/IMG_6221.JPG)
 
-Hugo has its own example site which happens to also be the documentation site
-you are reading right now.
+J'ai conservé le même dimensionnement pour la pose du nouveau receveur, refait l'étanchéité selon les normes en vigueurs et recarrelé entièrement l'espace. Et pour une finition parfaite, j'ai redonné un coup de peinture étanche sur le papier peint.
 
-Follow the following steps:
+Et voila une salle de douche toute neuve, pour les plus grands et les plus petits !
 
- 1. Clone the [hugo repository](http://github.com/spf13/hugo)
- 2. Go into the repo
- 3. Run hugo in server mode and build the docs
- 4. Open your browser to http://localhost:1313
+![](/uploads/IMG_6349.JPG)
 
-Corresponding pseudo commands:
-
-```bash
-git clone https://github.com/spf13/hugo
-cd hugo
-/path/to/where/you/installed/hugo server --source=./docs
-> 29 pages created
-> 0 tags index created
-> in 27 ms
-> Web Server is available at http://localhost:1313
-> Press ctrl+c to stop
-```
-
-Once you've gotten here, follow along the rest of this page on your local build.
-
-# Step 3. Change the docs site
-
-Stop the Hugo process by hitting ctrl+c.
-
-Now we are going to run hugo again, but this time with hugo in watch mode.
-
-```bash
-/path/to/hugo/from/step/1/hugo server --source=./docs --watch
-> 29 pages created
-> 0 tags index created
-> in 27 ms
-> Web Server is available at http://localhost:1313
-> Watching for changes in /Users/spf13/Code/hugo/docs/content
-> Press ctrl+c to stop
-```
-
-Open your [favorite editor](http://vim.spf13.com) and change one of the source
-content pages. How about changing this very file to *fix the typo*. How about changing this very file to *fix the typo*.
-
-Content files are found in `docs/content/`. Unless otherwise specified, files
-are located at the same relative location as the url, in our case
-`docs/content/overview/quickstart.md`.
-
-Change and save this file.. Notice what happened in your terminal.
-
-```bash
-Change detected, rebuilding site
-> 29 pages created
-> 0 tags index created
-> in 26 ms
-```
-
-Refresh the browser and observe that the typo is now fixed.
-
-Notice how quick that was. Try to refresh the site before it's finished building.. I double dare you.
-Having nearly instant feedback enables you to have your creativity flow without waiting for long builds.
-
-# Step 4. Have fun
-
-The best way to learn something is to play with it.
+La Plomberie du Blavet
