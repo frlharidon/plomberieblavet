@@ -1,0 +1,9 @@
+---
+label: Page
+hide_body: false
+is_partial: false
+fields:
+- type: include
+  template: formulaire-de-contact
+  label: formulaire de contact
+  name: formulaire_de_contact
